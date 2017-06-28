@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1
+END
+ProfileTransAuthOnlyType.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/ProfileTransAuthOnlyType.php
+END
+MobileDeviceLoginResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/MobileDeviceLoginResponse.php
+END
+ProfileTransCaptureOnlyType.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/ProfileTransCaptureOnlyType.php
+END
+CustomerProfileSummaryType.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/CustomerProfileSummaryType.php
+END
+ANetApiResponseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/ANetApiResponseType.php
+END
+ValidateCustomerPaymentProfileRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/ValidateCustomerPaymentProfileRequest.php
+END
+PaymentMaskedType.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/PaymentMaskedType.php
+END
+CreditCardType.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/CreditCardType.php
+END
+MessagesType.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/MessagesType.php
+END
+GetTransactionDetailsResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/GetTransactionDetailsResponse.php
+END
+GetSettledBatchListRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/GetSettledBatchListRequest.php
+END
+GetBatchStatisticsResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/GetBatchStatisticsResponse.php
+END
+SendCustomerTransactionReceiptResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/SendCustomerTransactionReceiptResponse.php
+END
+ProfileTransRefundType.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/ProfileTransRefundType.php
+END
+GetSettledBatchListResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/GetSettledBatchListResponse.php
+END
+GetCustomerShippingAddressRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/GetCustomerShippingAddressRequest.php
+END
+CustomerProfilePaymentType.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/CustomerProfilePaymentType.php
+END
+CreateTransactionRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/CreateTransactionRequest.php
+END
+CustomerProfileType.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/CustomerProfileType.php
+END
+CreateCustomerProfileTransactionRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/CreateCustomerProfileTransactionRequest.php
+END
+PaymentDetailsType.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/PaymentDetailsType.php
+END
+AuthenticateTestRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/AuthenticateTestRequest.php
+END
+GetCustomerProfileIdsRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/GetCustomerProfileIdsRequest.php
+END
+UpdateCustomerPaymentProfileRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/UpdateCustomerPaymentProfileRequest.php
+END
+UpdateSplitTenderGroupResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/net/authorize/api/contract/v1/UpdateSplitTenderGroupResponse.php
+END

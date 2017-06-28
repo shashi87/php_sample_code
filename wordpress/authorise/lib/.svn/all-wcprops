@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib
+END
+AuthorizeNetDPM.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/AuthorizeNetDPM.php
+END
+AuthorizeNetCP.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/AuthorizeNetCP.php
+END
+AuthorizeNetSOAP.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/AuthorizeNetSOAP.php
+END
+AuthorizeNetARB.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/AuthorizeNetARB.php
+END
+AuthorizeNetAIM.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/AuthorizeNetAIM.php
+END
+AuthorizeNetTD.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/AuthorizeNetTD.php
+END
+AuthorizeNetCIM.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/AuthorizeNetCIM.php
+END
+AuthorizeNetSIM.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/darwinspet-com/!svn/ver/800/trunk/wordpress/wp-content/themes/dp-ecomm-merged/authorise/lib/AuthorizeNetSIM.php
+END
